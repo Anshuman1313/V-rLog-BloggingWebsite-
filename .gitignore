@@ -15,7 +15,7 @@
 
 # production
 /build
-/lib/config/db.js
+
 # misc
 .DS_Store
 *.pem
