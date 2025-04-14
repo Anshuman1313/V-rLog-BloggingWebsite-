@@ -13,7 +13,12 @@ const Footer = () => {
             <Link href="https://x.com/Anshuman1_3" target='_blank'>
             <Image src={assets.twitter_icon} alt='' width={30} className=' bg-white h-[31px] rounded-full mt-0.5 p-1' />
             </Link>
+            <Link href="https://github.com/Anshuman1313/V-rLog-BloggingWebsite-" target='_blank'>
+            <Image src={assets.social} alt='' width={30}  className='rounded-full mt-[2px] h-[31px] ml-[8px]'/>
+            </Link>
             <Image src={assets.googleplus_icon} alt='' width={40} />
+            
+            
         </div>
     </div>
   )
